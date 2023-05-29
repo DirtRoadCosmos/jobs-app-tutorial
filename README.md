@@ -13,3 +13,7 @@ set up home screen structure
 add top of welcome screen
 
 (navbar, welcome, search)
+
+## - 47:52
+
+add filtering tabs
